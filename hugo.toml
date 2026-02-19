@@ -1,0 +1,40 @@
+baseURL = "https://ykawazura.github.io/"
+title = "Yohei Kawazura"
+theme = "kawazura-academic"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  name = "Yohei Kawazura"
+  position = "Associate Professor"
+  institution = "Utsunomiya University"
+  email = "kawazura@a.utsunomiya-u.ac.jp"
+  orcid = ""
+  googlescholar = ""
+
+[languages.en]
+  contentDir = "content/en"
+  languageName = "English"
+  languageCode = "en"
+  weight = 1
+  title = "Yohei Kawazura"
+
+  [languages.en.params]
+    nav_about = "About"
+    nav_publications = "Publications"
+    nav_cv = "CV"
+
+[languages.ja]
+  contentDir = "content/ja"
+  languageName = "日本語"
+  languageCode = "ja"
+  weight = 2
+  title = "川面洋平"
+
+  [languages.ja.params]
+    nav_about = "プロフィール"
+    nav_publications = "論文リスト"
+    nav_cv = "CV"

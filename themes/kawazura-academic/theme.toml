@@ -1,0 +1,9 @@
+name = "kawazura-academic"
+license = "MIT"
+licenselink = ""
+description = "Custom academic CV theme for Yohei Kawazura"
+homepage = "https://ykawazura.github.io/"
+min_version = "0.120.0"
+
+[author]
+  name = "Yohei Kawazura"
