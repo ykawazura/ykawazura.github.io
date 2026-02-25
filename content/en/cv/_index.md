@@ -227,17 +227,24 @@ description: "Yohei Kawazura — Curriculum Vitae"
 ## Teaching
 
 <div class="cv-entry">
+  <div class="cv-entry__date">2025 –</div>
+  <div class="cv-entry__content">
+    <strong>Utsunomiya University</strong>
+    <em>Mathematics for Data Science A</em>
+  </div>
+</div>
+<div class="cv-entry">
   <div class="cv-entry__date">2024 –</div>
   <div class="cv-entry__content">
     <strong>Utsunomiya University</strong>
-    <em>Introduction to AI, School of Data Science and Management</em>
+    <em>Introduction to AI</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2020 – 2022</div>
   <div class="cv-entry__content">
     <strong>Tohoku University</strong>
-    <em>Ionospheric and Magnetospheric Physics</em>
+    <em>Exercises in Ionospheric and Magnetospheric Physics</em>
   </div>
 </div>
 <div class="cv-entry">

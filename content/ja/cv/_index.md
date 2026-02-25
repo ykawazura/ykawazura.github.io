@@ -138,17 +138,24 @@ description: "川面洋平 — 履歴書"
 ## 教育
 
 <div class="cv-entry">
+  <div class="cv-entry__date">2025年 –</div>
+  <div class="cv-entry__content">
+    <strong>宇都宮大学</strong>
+    <em>データサイエンスの数理A</em>
+  </div>
+</div>
+<div class="cv-entry">
   <div class="cv-entry__date">2024年 –</div>
   <div class="cv-entry__content">
     <strong>宇都宮大学</strong>
-    <em>データサイエンス経営学部 AI 関連科目</em>
+    <em>AI入門</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2020 – 2022年</div>
   <div class="cv-entry__content">
     <strong>東北大学</strong>
-    <em>電離圏・磁気圏物理学</em>
+    <em>電磁圏物理学演習</em>
   </div>
 </div>
 <div class="cv-entry">
