@@ -431,6 +431,25 @@ ol.cv-list li, ul.cv-list li {
   background: #7dd3fc;
 }
 
+/* -- Publication legend -- */
+.tl-pub-legend {
+  display: flex;
+  gap: 0.6rem;
+  font-size: 0.65rem;
+  color: var(--color-text-muted);
+  align-items: center;
+  padding-top: 1mm;
+  padding-bottom: 4px;
+}
+.tl-pub-legend-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  margin-right: 3px;
+  vertical-align: middle;
+}
+
 /* -- Grants -- */
 .tl-grants {
   align-items: stretch;

@@ -18,6 +18,10 @@ description: "川面洋平 — 履歴書"
 <div class="tl-wrap"><div class="tl-inner">
 <div class="tl-section tl-pubs">
   <span class="tl-label">論文</span>
+  <div class="tl-pub-legend" style="grid-column:2/6;align-self:start">
+    <span><span class="tl-pub-legend-swatch" style="background:var(--color-accent)"></span>筆頭</span>
+    <span><span class="tl-pub-legend-swatch" style="background:#7dd3fc"></span>共著</span>
+  </div>
   <div class="tl-pub-col" style="grid-column:3">
     <div class="tl-pub-bar tl-pub-bar--co"></div>
   </div>
