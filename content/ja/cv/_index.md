@@ -15,6 +15,122 @@ description: "川面洋平 — 履歴書"
   電話: 028-649-5312
 </div>
 
+<div class="tl-wrap"><div class="tl-inner">
+<div class="tl-section tl-pubs">
+  <span class="tl-label">論文</span>
+  <div class="tl-pub-col" style="grid-column:3">
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:4">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:5">
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:6">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:8">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:9">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:10">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:11">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:12">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:13">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:14">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:16">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:17">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:18">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+  </div>
+  <div class="tl-pub-col" style="grid-column:19">
+    <div class="tl-pub-bar tl-pub-bar--first"></div>
+    <div class="tl-pub-bar tl-pub-bar--co"></div>
+  </div>
+</div>
+
+<div class="tl-section tl-grants">
+  <span class="tl-label">外部資金</span>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:6/9;grid-row:1">特別研究員奨励費</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:13/16;grid-row:1">スタート支援 (PI)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:19/-1;grid-row:1">基盤B (PI) →</div>
+  <div class="tl-grant-bar tl-grant-bar--co-i" style="grid-column:8/11;grid-row:2">基盤S (分担)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:14/18;grid-row:2">若手 (PI)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:8/12;grid-row:3">若手B (PI)</div>
+</div>
+
+<div class="tl-section tl-career">
+  <span class="tl-label">キャリア</span>
+  <div class="tl-career-bar tl-career-bar--utokyo" style="grid-column:2/4">修士</div>
+  <div class="tl-career-bar tl-career-bar--utokyo" style="grid-column:4/7">博士</div>
+  <div class="tl-career-bar tl-career-bar--oxford" style="grid-column:7/8">PD</div>
+  <div class="tl-career-bar tl-career-bar--tohoku" style="grid-column:8/10">助教</div>
+  <div class="tl-career-bar tl-career-bar--oxford" style="grid-column:10/13">PD</div>
+  <div class="tl-career-bar tl-career-bar--tohoku" style="grid-column:13/18">助教</div>
+  <div class="tl-career-bar tl-career-bar--utsunomiya" style="grid-column:18/-1">准教授</div>
+</div>
+
+<div class="tl-years">
+  <span></span>
+  <span class="tl-year">'08</span>
+  <span class="tl-year">'09</span>
+  <span class="tl-year">'10</span>
+  <span class="tl-year">'11</span>
+  <span class="tl-year">'12</span>
+  <span class="tl-year">'13</span>
+  <span class="tl-year">'14</span>
+  <span class="tl-year">'15</span>
+  <span class="tl-year">'16</span>
+  <span class="tl-year">'17</span>
+  <span class="tl-year">'18</span>
+  <span class="tl-year">'19</span>
+  <span class="tl-year">'20</span>
+  <span class="tl-year">'21</span>
+  <span class="tl-year">'22</span>
+  <span class="tl-year">'23</span>
+  <span class="tl-year">'24</span>
+  <span class="tl-year">'25</span>
+  <span class="tl-year">'26</span>
+</div>
+</div></div>
+
+<p style="font-size:0.7rem;color:var(--color-text-muted);text-align:right;margin-top:0.2rem">チャートは <a href="https://x.com/rei_nari/status/1819644319076438464">@rei_nari</a> を参考</p>
+
 ---
 
 ## 学歴
@@ -60,7 +176,7 @@ description: "川面洋平 — 履歴書"
 <div class="cv-entry">
   <div class="cv-entry__date">2014 – 2019年</div>
   <div class="cv-entry__content">
-    <strong>特任研究員</strong>
+    <strong>助教</strong>
     東京大学，新領域創成科学研究科
   </div>
 </div>
@@ -121,7 +237,7 @@ description: "川面洋平 — 履歴書"
 <div class="cv-entry">
   <div class="cv-entry__date">2014 – 2016年</div>
   <div class="cv-entry__content">
-    <strong>分担</strong> — 科学研究費助成事業（特別推進研究），106,340,000円
+    <strong>分担</strong> — 科学研究費助成事業（基盤研究S），106,340,000円
     <em>葉層化位相空間における歪んだ計量の非線形効果：磁気圏プラズマ閉じ込めの自己組織化</em>
   </div>
 </div>

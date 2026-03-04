@@ -375,6 +375,128 @@ ol.cv-list li, ul.cv-list li {
 }
 
 /* ===========================
+   Career Timeline Chart
+   =========================== */
+.tl-wrap {
+  overflow-x: auto;
+  margin: 2rem 0 0.5rem;
+}
+
+.tl-inner {
+  min-width: 680px;
+}
+
+.tl-section {
+  display: grid;
+  grid-template-columns: 64px repeat(19, 1fr);
+  gap: 0;
+  position: relative;
+}
+
+.tl-label {
+  grid-column: 1;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  letter-spacing: 0.03em;
+  padding-right: 8px;
+  text-align: right;
+  white-space: nowrap;
+  align-self: center;
+}
+
+/* -- Publications -- */
+.tl-pubs {
+  align-items: end;
+  min-height: 80px;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 4px;
+}
+
+.tl-pub-col {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1px;
+  padding: 0 2px;
+}
+
+.tl-pub-bar {
+  height: 14px;
+  border-radius: 2px;
+}
+.tl-pub-bar--first {
+  background: var(--color-accent);
+}
+.tl-pub-bar--co {
+  background: #7dd3fc;
+}
+
+/* -- Grants -- */
+.tl-grants {
+  align-items: stretch;
+  row-gap: 3px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.tl-grants .tl-label {
+  grid-row: 1 / 4;
+}
+
+.tl-grant-bar {
+  border-radius: 3px;
+  padding: 1px 6px;
+  font-size: 0.68rem;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.6;
+}
+.tl-grant-bar--pi {
+  background: rgba(3, 105, 161, 0.1);
+  border: 1px solid rgba(3, 105, 161, 0.3);
+  color: var(--color-accent);
+}
+.tl-grant-bar--co-i {
+  background: var(--color-bg-subtle);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+}
+
+/* -- Career -- */
+.tl-career {
+  align-items: stretch;
+  padding: 6px 0;
+}
+.tl-career-bar {
+  border-radius: 3px;
+  padding: 2px 6px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.6;
+}
+.tl-career-bar--utokyo { background: var(--color-accent); }
+.tl-career-bar--oxford { background: #166534; }
+.tl-career-bar--tohoku { background: #7c3aed; }
+.tl-career-bar--utsunomiya { background: #b45309; }
+
+/* -- Year labels -- */
+.tl-years {
+  display: grid;
+  grid-template-columns: 64px repeat(19, 1fr);
+  padding-top: 3px;
+}
+.tl-year {
+  font-size: 0.65rem;
+  color: var(--color-text-muted);
+  text-align: center;
+}
+
+/* ===========================
    Mobile (≤ 720px)
    =========================== */
 @media (max-width: 720px) {
@@ -389,6 +511,7 @@ ol.cv-list li, ul.cv-list li {
   h2 { font-size: 1rem; }
   .cv-entry { flex-direction: column; gap: 0.2rem; }
   .cv-entry__date { min-width: 0; }
+  .tl-wrap { margin: 1.5rem -1rem; padding: 0 1rem; }
 }
 
 @media (max-width: 480px) {
