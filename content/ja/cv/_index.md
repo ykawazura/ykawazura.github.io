@@ -90,12 +90,12 @@ description: "川面洋平 — 履歴書"
 
 <div class="tl-section tl-grants">
   <span class="tl-label">外部資金</span>
-  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:6/9;grid-row:1">特別研究員奨励費</div>
-  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:13/16;grid-row:1">スタート支援 (PI)</div>
-  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:19/-1;grid-row:1">基盤B (PI) →</div>
-  <div class="tl-grant-bar tl-grant-bar--co-i" style="grid-column:8/11;grid-row:2">基盤S (分担)</div>
-  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:14/18;grid-row:2">若手 (PI)</div>
-  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:8/12;grid-row:3">若手B (PI)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:6/8;grid-row:1">特別研究員奨励費</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:8/11;grid-row:1">若手B (代表)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:13/15;grid-row:1">スタート支援 (代表)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:19/-1;grid-row:1">基盤B (代表) →</div>
+  <div class="tl-grant-bar tl-grant-bar--co-i" style="grid-column:8/10;grid-row:2">基盤S (分担)</div>
+  <div class="tl-grant-bar tl-grant-bar--pi" style="grid-column:14/17;grid-row:2">若手 (代表)</div>
 </div>
 
 <div class="tl-section tl-career">
@@ -213,28 +213,28 @@ description: "川面洋平 — 履歴書"
 <div class="cv-entry">
   <div class="cv-entry__date">2025 – 2029年</div>
   <div class="cv-entry__content">
-    <strong>PI</strong> — 科学研究費助成事業（基盤研究B），17,680,000円
+    <strong>代表</strong> — 科学研究費助成事業（基盤研究B），17,680,000円
     <em>簡約化運動論とマルチスケール手法で解き明かす無衝突降着円盤における乱流加熱の物理</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2020 – 2023年</div>
   <div class="cv-entry__content">
-    <strong>PI</strong> — 科学研究費助成事業（若手研究），4,030,000円
+    <strong>代表</strong> — 科学研究費助成事業（若手研究），4,030,000円
     <em>降着流の微細な乱流特性解明のための超高解像度磁気流体シミュレーション</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2019 – 2021年</div>
   <div class="cv-entry__content">
-    <strong>PI</strong> — 科学研究費助成事業（研究活動スタート支援），2,860,000円
+    <strong>代表</strong> — 科学研究費助成事業（研究活動スタート支援），2,860,000円
     <em>マルチスケールアプローチによる高温降着流の乱流加熱の定式化</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2014 – 2017年</div>
   <div class="cv-entry__content">
-    <strong>PI</strong> — 科学研究費助成事業（若手研究B），1,950,000円
+    <strong>代表</strong> — 科学研究費助成事業（若手研究B），1,950,000円
     <em>相対論的順圧不安定による磁場生成の理論・数値的研究</em>
   </div>
 </div>
@@ -248,7 +248,7 @@ description: "川面洋平 — 履歴書"
 <div class="cv-entry">
   <div class="cv-entry__date">2012 – 2014年</div>
   <div class="cv-entry__content">
-    <strong>PI</strong> — 特別研究員奨励費，1,000,000円
+    <strong>代表</strong> — 特別研究員奨励費，1,000,000円
     <em>位相欠陥を持つ非線形系のエントロピー生成によるプラズマ乱流の自己組織化の研究</em>
   </div>
 </div>
