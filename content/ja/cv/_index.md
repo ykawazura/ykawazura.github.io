@@ -195,7 +195,7 @@ description: "川面洋平 — 履歴書"
   <div class="cv-entry__date">2011年</div>
   <div class="cv-entry__content">
     <strong>訪問研究員</strong>
-    ニューヨーク大学，クーラント数学科学研究所
+    ニューヨーク大学，クーラント数理科学研究所
   </div>
 </div>
 <div class="cv-entry">
@@ -221,28 +221,28 @@ description: "川面洋平 — 履歴書"
   <div class="cv-entry__date">2020 – 2023年</div>
   <div class="cv-entry__content">
     <strong>代表</strong> — 科学研究費助成事業（若手研究），4,030,000円
-    <em>降着流の微細な乱流特性解明のための超高解像度磁気流体シミュレーション</em>
+    <em>超高解像度電磁流体力学シミュレーションで迫る降着円盤乱流の微小スケール特性</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2019 – 2021年</div>
   <div class="cv-entry__content">
     <strong>代表</strong> — 科学研究費助成事業（研究活動スタート支援），2,860,000円
-    <em>マルチスケールアプローチによる高温降着流の乱流加熱の定式化</em>
+    <em>マルチスケール手法を用いた高温降着流における乱流加熱研究</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2014 – 2017年</div>
   <div class="cv-entry__content">
     <strong>代表</strong> — 科学研究費助成事業（若手研究B），1,950,000円
-    <em>相対論的順圧不安定による磁場生成の理論・数値的研究</em>
+    <em>相対論的傾圧効果による磁場生成に関する理論及びシミュレーション研究</em>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry__date">2014 – 2016年</div>
   <div class="cv-entry__content">
     <strong>分担</strong> — 科学研究費助成事業（基盤研究S），106,340,000円
-    <em>葉層化位相空間における歪んだ計量の非線形効果：磁気圏プラズマ閉じ込めの自己組織化</em>
+    <em>磁気圏プラズマの自己組織化―磁場によって歪むメトリックの非線形効果</em>
   </div>
 </div>
 <div class="cv-entry">
@@ -298,11 +298,10 @@ description: "川面洋平 — 履歴書"
 ## 受賞
 
 <ol class="cv-list">
-  <li><strong>HPCI研究プロジェクト 優秀成果賞</strong>，High Performance Computing Infrastructure（2023年10月）</li>
-  <li><strong>Young Scientist Award</strong>，Association of Asia Pacific Physical Societies（Division of Plasma Physics）（2022年10月）</li>
+  <li><strong>HPCI利用研究課題優秀成果賞</strong>，High Performance Computing Infrastructure（2023年10月）</li>
+  <li><strong>Young Scientist Award (U40)</strong>，Association of Asia Pacific Physical Societies（Division of Plasma Physics）（2022年10月）</li>
   <li><strong>若手奨励賞</strong>，日本物理学会（2022年3月）</li>
-  <li><strong>東北大学 卓越研究者</strong>（2021年7月）</li>
-  <li><strong>研究科長賞（博士課程優秀者）</strong>，東京大学大学院新領域創成科学研究科（2013年3月）</li>
+  <li><strong>研究科長賞学業部門</strong>，東京大学大学院新領域創成科学研究科（2013年3月）</li>
   <li><strong>学生優秀発表賞</strong>，日本物理学会 第68回年次大会（2013年3月）</li>
   <li><strong>学生ポスター賞</strong>，プラズマ科学のフロンティア2012，核融合科学研究所（2012年8月）</li>
 </ol>
